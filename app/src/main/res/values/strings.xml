@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">音乐</string>
+    <!--主页头部-->
+    <string name="main_head_my">音乐</string>
+    <!--主页内容-->
+    <string name="some_song_sheet">默认歌单</string>
+    <string name="main_content_title">Music</string>
+
+    <string name="author">创建者：Admin</string>
+
+    <string name="menu_download">下载</string>
+</resources>

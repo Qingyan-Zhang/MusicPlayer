@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF018786</color>
+    <color name="colorPrimaryDark">#FF018786</color>
+    <color name="colorAccent">#FF018786</color>
+    <!-- 自定义 -->
+    <color name="black">#000</color>
+    <color name="purple">#FF018786</color>
+
+    <color name="dividerColor">#22000000</color>
+    <color name="dimGrey">#696969</color>
+</resources>
